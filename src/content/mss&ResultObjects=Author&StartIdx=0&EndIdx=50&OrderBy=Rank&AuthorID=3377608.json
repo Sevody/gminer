@@ -1,0 +1,66 @@
+{
+    "d": {
+        "__type": "Response:http:\/\/research.microsoft.com",
+        "Author": {
+            "__type": "AuthorResponse:http:\/\/research.microsoft.com",
+            "EndIdx": 1,
+            "StartIdx": 1,
+            "TotalItem": 1,
+            "Result": [{
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 16401,
+                    "Name": "Tsinghua University China",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 567,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=3377608",
+                "FirstName": "Jie",
+                "GIndex": 19,
+                "HIndex": 12,
+                "HomepageURL": "http:\/\/keg.cs.tsinghua.edu.cn\/persons\/tj\/",
+                "ID": 3377608,
+                "LastName": "Tang",
+                "MiddleName": "",
+                "NativeName": "唐杰",
+                "PublicationCount": 200,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Data Mining",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "World Wide Web",
+                    "PublicationCount": 0,
+                    "SubDomainID": 15
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Databases",
+                    "PublicationCount": 0,
+                    "SubDomainID": 18
+                }]
+            }]
+        },
+        "Conference": null,
+        "Domain": null,
+        "Journal": null,
+        "Keyword": null,
+        "Organization": null,
+        "Publication": null,
+        "ResultCode": 0,
+        "Trend": null,
+        "Version": "1.1"
+    }
+}

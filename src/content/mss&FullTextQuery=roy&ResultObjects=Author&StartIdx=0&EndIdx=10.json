@@ -1,0 +1,471 @@
+{
+    "d": {
+        "__type": "Response:http:\/\/research.microsoft.com",
+        "Author": {
+            "__type": "AuthorResponse:http:\/\/research.microsoft.com",
+            "EndIdx": 10,
+            "StartIdx": 1,
+            "TotalItem": 435714,
+            "Result": [{
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 14369,
+                    "Name": "Purdue University",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 9319,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=389260",
+                "FirstName": "Kaushik",
+                "GIndex": 74,
+                "HIndex": 47,
+                "HomepageURL": "https:\/\/engineering.purdue.edu\/ECE\/People\/profile?resource_id=3085",
+                "ID": 389260,
+                "LastName": "Roy",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 867,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Hardware & Architecture",
+                    "PublicationCount": 0,
+                    "SubDomainID": 3
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Electrical & Electronic Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Software Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 4
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 18389,
+                    "Name": "University of Saskatchewan",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 7200,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=1076454",
+                "FirstName": "Roy",
+                "GIndex": 67,
+                "HIndex": 39,
+                "HomepageURL": "http:\/\/www.ece.usask.ca\/eceresearch\/faculty\/rob250\/",
+                "ID": 1076454,
+                "LastName": "Billinton",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 577,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Energy",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Electrical & Electronic Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Reliability & Risk Analysis",
+                    "PublicationCount": 0,
+                    "SubDomainID": 15
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 18939,
+                    "Name": "University of Washington",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 5850,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=528332",
+                "FirstName": "Sumit",
+                "GIndex": 61,
+                "HIndex": 35,
+                "HomepageURL": "https:\/\/www.ee.washington.edu\/people\/faculty\/roy\/",
+                "ID": 528332,
+                "LastName": "Roy",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 671,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Networks & Communications",
+                    "PublicationCount": 0,
+                    "SubDomainID": 14
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Energy",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Electrical & Electronic Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 16371,
+                    "Name": "University of Toronto",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2887,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=21277206",
+                "FirstName": "Roy",
+                "GIndex": 43,
+                "HIndex": 28,
+                "HomepageURL": "http:\/\/www.members.shaw.ca\/royjshep\/",
+                "ID": 21277206,
+                "LastName": "Shephard",
+                "MiddleName": "J.",
+                "NativeName": null,
+                "PublicationCount": 491,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Physiology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 21
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Nutrition",
+                    "PublicationCount": 0,
+                    "SubDomainID": 16
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Endocrinology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 9
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 687,
+                    "Name": "University of Illinois Urbana Champaign",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 6250,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=691155",
+                "FirstName": "Roy",
+                "GIndex": 68,
+                "HIndex": 38,
+                "HomepageURL": "http:\/\/cs.illinois.edu\/people\/faculty\/roy-campbell",
+                "ID": 691155,
+                "LastName": "Campbell",
+                "MiddleName": "Harold",
+                "NativeName": null,
+                "PublicationCount": 429,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Networks & Communications",
+                    "PublicationCount": 0,
+                    "SubDomainID": 14
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Distributed & Parallel Computing",
+                    "PublicationCount": 0,
+                    "SubDomainID": 16
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Programming Languages",
+                    "PublicationCount": 0,
+                    "SubDomainID": 24
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 6840,
+                    "Name": "Dalhousie University",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 5529,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=1188053",
+                "FirstName": "Deb",
+                "GIndex": 61,
+                "HIndex": 32,
+                "HomepageURL": "http:\/\/web.media.mit.edu\/~dkroy\/",
+                "ID": 1188053,
+                "LastName": "Roy",
+                "MiddleName": "Kumar",
+                "NativeName": null,
+                "PublicationCount": 632,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Cardiology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 3
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Mechanical Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 10
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Artificial Intelligence",
+                    "PublicationCount": 0,
+                    "SubDomainID": 5
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 845,
+                    "Name": "University of Arizona",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 8330,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=10802621",
+                "FirstName": "Roy",
+                "GIndex": 83,
+                "HIndex": 43,
+                "HomepageURL": "http:\/\/www.mcb.arizona.edu\/facultyResearchDetail.cfm?id=rrparker",
+                "ID": 10802621,
+                "LastName": "Parker",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 481,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Oncology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 17
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Biochemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 19
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 4,
+                    "Name": "Molecular Biology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 10
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 1891,
+                    "Name": "UMR6415 Grand Accélérateur National d'Ions Lourds GANIL",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2832,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=36884146",
+                "FirstName": "Rustum",
+                "GIndex": 31,
+                "HIndex": 23,
+                "HomepageURL": "http:\/\/www.rustumroy.com\/",
+                "ID": 36884146,
+                "LastName": "Roy",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 562,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 12,
+                    "Name": "Ceramics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 22,
+                    "Name": "Communication",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Crystallography",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 11025,
+                    "Name": "Instituto Universitario de Tecnología Pedro Emilio Coll",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 14077,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=2852854",
+                "FirstName": "Roy",
+                "GIndex": 109,
+                "HIndex": 56,
+                "HomepageURL": "http:\/\/www1.imperial.ac.uk\/medicine\/people\/roy.anderson\/",
+                "ID": 2852854,
+                "LastName": "Anderson",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 389,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Immunology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 12
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Diseases",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Neuroscience",
+                    "PublicationCount": 0,
+                    "SubDomainID": 14
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 7913,
+                    "Name": "University of Exeter",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 1404,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=12711715",
+                "FirstName": "John",
+                "GIndex": 30,
+                "HIndex": 16,
+                "HomepageURL": "http:\/\/emps.exeter.ac.uk\/physics-astronomy\/staff\/JRSamble",
+                "ID": 12711715,
+                "LastName": "Sambles",
+                "MiddleName": "Roy",
+                "NativeName": null,
+                "PublicationCount": 577,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Optics & Optoelectronics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Condensed Matter Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Statistical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }]
+            }]
+        },
+        "Conference": null,
+        "Domain": null,
+        "Journal": null,
+        "Keyword": null,
+        "Organization": null,
+        "Publication": null,
+        "ResultCode": 0,
+        "Trend": null,
+        "Version": "1.1"
+    }
+}

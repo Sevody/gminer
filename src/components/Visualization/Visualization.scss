@@ -1,0 +1,27 @@
+@import '../variables.scss';
+
+.root {
+
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.information {
+    height: 140px;
+    overflow: hidden;
+}
+
+.searchNothing {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    color: #939393;
+}
+
+.searchSomethig {
+    display: none;
+}

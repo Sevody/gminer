@@ -1,0 +1,61 @@
+@import '../variables.scss';
+
+.root {
+
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px 0 40px;
+  max-width: $max-content-width;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+}
+ul, li {
+    padding: 0;
+    margin: 0;
+}
+.author {
+    margin: 20px;
+    display: flex;
+    img {
+        margin-right: 20px;
+    }
+
+    .information {
+        display: flex;
+        justify-content:space-between;
+        flex-direction: column;
+        .name {
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .achievement{
+            list-style-type: none;
+            display: flex;
+            justify-content: flex-start;
+            font-size: .8em;
+            li {
+                padding-right: 5px;
+            }
+            .span {
+                color: #a94442;
+            }
+        }
+        .affiliation{
+            font-size: .7em;
+        }
+        .domain{
+            list-style-type: none;
+            display: flex;
+            justify-content: space-between;
+            font-size: .7em;
+            color: gray;
+            span {
+                padding-right: 20px;
+            }
+        }
+    }
+}
+

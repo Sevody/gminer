@@ -1,0 +1,38 @@
+@import '../variables.scss';
+
+.root {
+
+}
+
+.container {
+    margin: 0 auto;
+    padding: 40px 0 40px;
+    max-width: $max-content-width;
+
+}
+
+.searchBox {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 80px;
+}
+
+.inputBox {
+    width: 30%;
+}
+
+.button {
+    color: rgba(0, 0, 0, .7);
+    margin-left: 10px;
+    padding: 1px 3px;
+}
+
+.searchNothing {
+    display: flex;
+    justify-content: center;
+    color: #939393;
+}
+
+.searchSomethig {
+    display: none;
+}

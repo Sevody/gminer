@@ -1,0 +1,471 @@
+{
+    "d": {
+        "__type": "Response:http:\/\/research.microsoft.com",
+        "Author": {
+            "__type": "AuthorResponse:http:\/\/research.microsoft.com",
+            "EndIdx": 10,
+            "StartIdx": 1,
+            "TotalItem": 20715,
+            "Result": [{
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 16401,
+                    "Name": "Tsinghua University China",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 567,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=3377608",
+                "FirstName": "Jie",
+                "GIndex": 19,
+                "HIndex": 12,
+                "HomepageURL": "http:\/\/keg.cs.tsinghua.edu.cn\/persons\/tj\/",
+                "ID": 3377608,
+                "LastName": "Tang",
+                "MiddleName": "",
+                "NativeName": "唐杰",
+                "PublicationCount": 200,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Data Mining",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "World Wide Web",
+                    "PublicationCount": 0,
+                    "SubDomainID": 15
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Databases",
+                    "PublicationCount": 0,
+                    "SubDomainID": 18
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 19048,
+                    "Name": "Wuhan University of Technology",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 139,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=53770773",
+                "FirstName": "Qing-Jie",
+                "GIndex": 9,
+                "HIndex": 6,
+                "HomepageURL": "",
+                "ID": 53770773,
+                "LastName": "Zhang",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 141,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 12,
+                    "Name": "Ceramics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Physical Chemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 15
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 12,
+                    "Name": "Composite Materials",
+                    "PublicationCount": 0,
+                    "SubDomainID": 3
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 699,
+                    "Name": "Cedars Sinai Medical Center",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 1648,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=49607212",
+                "FirstName": "Jie",
+                "GIndex": 39,
+                "HIndex": 19,
+                "HomepageURL": "",
+                "ID": 49607212,
+                "LastName": "Tang",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 146,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Neuroscience",
+                    "PublicationCount": 0,
+                    "SubDomainID": 14
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Immunology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 12
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 6,
+                    "Name": "Pharmacology",
+                    "PublicationCount": 0,
+                    "SubDomainID": 20
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 4021,
+                    "Name": "Sichuan University",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 248,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=3328826",
+                "FirstName": "Chang-jie",
+                "GIndex": 11,
+                "HIndex": 8,
+                "HomepageURL": "http:\/\/cs.scu.edu.cn\/~tangchangjie\/eng\/tang.htm",
+                "ID": 3328826,
+                "LastName": "Tang",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 128,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Databases",
+                    "PublicationCount": 0,
+                    "SubDomainID": 18
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Data Mining",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 2,
+                    "Name": "Algorithms & Theory",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 19048,
+                    "Name": "Wuhan University of Technology",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 39,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=20675675",
+                "FirstName": "Xin-Feng",
+                "GIndex": 4,
+                "HIndex": 3,
+                "HomepageURL": "",
+                "ID": 20675675,
+                "LastName": "Tang",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 77,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Computational Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 5
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 0
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Physical Chemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 15
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 606,
+                    "Name": "Sloan Kettering Memorial Cancer Center",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2958,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=48069999",
+                "FirstName": "Francis",
+                "GIndex": 52,
+                "HIndex": 13,
+                "HomepageURL": "",
+                "ID": 48069999,
+                "LastName": "Liu",
+                "MiddleName": "H.",
+                "NativeName": null,
+                "PublicationCount": 490,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Nuclear Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 9
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Radiation",
+                    "PublicationCount": 0,
+                    "SubDomainID": 4
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Astrophysics & Space Science",
+                    "PublicationCount": 0,
+                    "SubDomainID": 11
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 7276,
+                    "Name": "East China Normal University",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 607,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=49607197",
+                "FirstName": "Jie",
+                "GIndex": 22,
+                "HIndex": 11,
+                "HomepageURL": "",
+                "ID": 49607197,
+                "LastName": "Tang",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 132,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Organic Chemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 12
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Applied Chemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Biochemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 19
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 5773,
+                    "Name": "Central China Normal University",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2719,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=4086305",
+                "FirstName": "Xiao",
+                "GIndex": 50,
+                "HIndex": 14,
+                "HomepageURL": "",
+                "ID": 4086305,
+                "LastName": "Cai",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 513,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Nuclear Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 9
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Radiation",
+                    "PublicationCount": 0,
+                    "SubDomainID": 4
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Astrophysics & Space Science",
+                    "PublicationCount": 0,
+                    "SubDomainID": 11
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 3139,
+                    "Name": "Royal Observatory Edinburgh",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 3348,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=18381088",
+                "FirstName": "James",
+                "GIndex": 55,
+                "HIndex": 14,
+                "HomepageURL": "",
+                "ID": 18381088,
+                "LastName": "Dunlop",
+                "MiddleName": "Colville",
+                "NativeName": null,
+                "PublicationCount": 503,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Nuclear Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 9
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Electrical & Electronic Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Astrophysics & Space Science",
+                    "PublicationCount": 0,
+                    "SubDomainID": 11
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 1142,
+                    "Name": "ERNET India",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 3581,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=18354060",
+                "FirstName": "Tapan",
+                "GIndex": 58,
+                "HIndex": 17,
+                "HomepageURL": "",
+                "ID": 18354060,
+                "LastName": "Nayak",
+                "MiddleName": "Kumar",
+                "NativeName": null,
+                "PublicationCount": 502,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Nuclear Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 9
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Radiation",
+                    "PublicationCount": 0,
+                    "SubDomainID": 4
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Nuclear Energy",
+                    "PublicationCount": 0,
+                    "SubDomainID": 10
+                }]
+            }]
+        },
+        "Conference": null,
+        "Domain": null,
+        "Journal": null,
+        "Keyword": null,
+        "Organization": null,
+        "Publication": null,
+        "ResultCode": 0,
+        "Trend": null,
+        "Version": "1.1"
+    }
+}

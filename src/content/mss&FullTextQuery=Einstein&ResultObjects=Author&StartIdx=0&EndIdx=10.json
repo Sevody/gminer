@@ -1,0 +1,462 @@
+{
+    "d": {
+        "__type": "Response:http:\/\/research.microsoft.com",
+        "Author": {
+            "__type": "AuthorResponse:http:\/\/research.microsoft.com",
+            "EndIdx": 10,
+            "StartIdx": 1,
+            "TotalItem": 109601,
+            "Result": [{
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 518,
+                    "Name": "Institute for Advanced Study",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 6025,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=12779261",
+                "FirstName": "Albert",
+                "GIndex": 77,
+                "HIndex": 29,
+                "HomepageURL": "http:\/\/en.wikipedia.org\/wiki\/Albert_Einstein#Early_life_and_education",
+                "ID": 12779261,
+                "LastName": "Einstein",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 294,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Mathematical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 8
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Astrophysics & Space Science",
+                    "PublicationCount": 0,
+                    "SubDomainID": 11
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 15,
+                    "Name": "Mathematics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 0
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 1311,
+                    "Name": "University of Tokyo",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 914,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=4485933",
+                "FirstName": "Masahito",
+                "GIndex": 20,
+                "HIndex": 12,
+                "HomepageURL": "http:\/\/cat.phys.s.u-tokyo.ac.jp\/~ueda\/E_index.html",
+                "ID": 4485933,
+                "LastName": "Ueda",
+                "MiddleName": "",
+                "NativeName": "上田正仁",
+                "PublicationCount": 576,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Optics & Optoelectronics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Electrical & Electronic Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 20345,
+                    "Name": "University of Massachusetts",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 977,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=1250415",
+                "FirstName": "Panayotis",
+                "GIndex": 16,
+                "HIndex": 13,
+                "HomepageURL": "http:\/\/www.math.umass.edu\/~kevrekid\/",
+                "ID": 1250415,
+                "LastName": "Kevrekidis",
+                "MiddleName": "G.",
+                "NativeName": null,
+                "PublicationCount": 595,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Mathematical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 8
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Statistical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 568,
+                    "Name": "Massachusetts Institute of Technology",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2901,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=200299",
+                "FirstName": "Wolfgang",
+                "GIndex": 47,
+                "HIndex": 28,
+                "HomepageURL": "http:\/\/web.mit.edu\/physics\/people\/faculty\/ketterle_wolfgang.html",
+                "ID": 200299,
+                "LastName": "Ketterle",
+                "MiddleName": "",
+                "NativeName": null,
+                "PublicationCount": 344,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Optics & Optoelectronics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 8,
+                    "Name": "Engineering",
+                    "PublicationCount": 0,
+                    "SubDomainID": 0
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 18187,
+                    "Name": "National and Kapodistrian University of Athens, Greece",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 390,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=2340878",
+                "FirstName": "Dimitri",
+                "GIndex": 12,
+                "HIndex": 10,
+                "HomepageURL": "http:\/\/www.aipuniphy.org\/Profile.bme\/36191\/Dimitri_J_Frantzeskakis",
+                "ID": 2340878,
+                "LastName": "Frantzeskakis",
+                "MiddleName": "J.",
+                "NativeName": null,
+                "PublicationCount": 380,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Mathematical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 8
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Statistical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 6364,
+                    "Name": "University of Colorado Boulder",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2168,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=2578201",
+                "FirstName": "Eric",
+                "GIndex": 43,
+                "HIndex": 22,
+                "HomepageURL": "http:\/\/www.colorado.edu\/newsservices\/nobel\/cornell.html",
+                "ID": 2578201,
+                "LastName": "Cornell",
+                "MiddleName": "A.",
+                "NativeName": null,
+                "PublicationCount": 292,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Optics & Optoelectronics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Nuclear Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 9
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 710,
+                    "Name": "University of Maryland",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 197,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=2793417",
+                "FirstName": "Theodore",
+                "GIndex": 8,
+                "HIndex": 6,
+                "HomepageURL": "http:\/\/www2.physics.umd.edu\/~einstein\/",
+                "ID": 2793417,
+                "LastName": "Einstein",
+                "MiddleName": "L.",
+                "NativeName": null,
+                "PublicationCount": 261,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Condensed Matter Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Statistical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Mathematical Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 8
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": null,
+                "CitationCount": 143,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=20095371",
+                "FirstName": "Frederick",
+                "GIndex": 5,
+                "HIndex": 5,
+                "HomepageURL": "",
+                "ID": 20095371,
+                "LastName": "Einstein",
+                "MiddleName": "W. B.",
+                "NativeName": null,
+                "PublicationCount": 167,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Applied Chemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 5,
+                    "Name": "Polymer Chemistry",
+                    "PublicationCount": 0,
+                    "SubDomainID": 16
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 12,
+                    "Name": "Metallurgy",
+                    "PublicationCount": 0,
+                    "SubDomainID": 7
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 6364,
+                    "Name": "University of Colorado Boulder",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 2792,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=2396538",
+                "FirstName": "Carl",
+                "GIndex": 48,
+                "HIndex": 26,
+                "HomepageURL": "http:\/\/www.colorado.edu\/newsservices\/nobel\/wieman.html",
+                "ID": 2396538,
+                "LastName": "Wieman",
+                "MiddleName": "E.",
+                "NativeName": null,
+                "PublicationCount": 386,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Optics & Optoelectronics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 22,
+                    "Name": "Education",
+                    "PublicationCount": 0,
+                    "SubDomainID": 13
+                }]
+            }, {
+                "__type": "Author:http:\/\/research.microsoft.com",
+                "Affiliation": {
+                    "__type": "Organization:http:\/\/research.microsoft.com",
+                    "AuthorCount": 0,
+                    "CitationCount": 0,
+                    "HomepageURL": null,
+                    "ID": 13804,
+                    "Name": "Osaka City University",
+                    "PublicationCount": 0,
+                    "ResearchInterestDomain": null
+                },
+                "CitationCount": 705,
+                "DisplayPhotoURL": "http:\/\/academic.research.microsoft.com\/AuthorPhoto.ashx?id=2723076",
+                "FirstName": "Makoto",
+                "GIndex": 21,
+                "HIndex": 15,
+                "HomepageURL": "",
+                "ID": 2723076,
+                "LastName": "Tsubota",
+                "MiddleName": "",
+                "NativeName": "坪田誠",
+                "PublicationCount": 291,
+                "ResearchInterestDomain": [{
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Condensed Matter Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 6
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Atomic & Molecular Physics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 1
+                }, {
+                    "__type": "Domain:http:\/\/research.microsoft.com",
+                    "CitationCount": 0,
+                    "DomainID": 19,
+                    "Name": "Optics & Optoelectronics",
+                    "PublicationCount": 0,
+                    "SubDomainID": 2
+                }]
+            }]
+        },
+        "Conference": null,
+        "Domain": null,
+        "Journal": null,
+        "Keyword": null,
+        "Organization": null,
+        "Publication": null,
+        "ResultCode": 0,
+        "Trend": null,
+        "Version": "1.1"
+    }
+}
