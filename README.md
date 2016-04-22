@@ -5,3 +5,5 @@
  * Webpack
  * ES6
  * Isomorphic web app
+
+### DEMO : https://gminer.herokuapp.com/
