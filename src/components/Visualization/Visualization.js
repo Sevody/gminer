@@ -386,8 +386,9 @@ class Visualization extends Component {
   handleMSSData(raw) {
     let length = raw.d.Publication.TotalItem;
     let data = length > 0 ? raw.d.Publication.Result : [];
-    this.setState({publicationStorage: data});
-    const rID = this.state.rID;
+    const rID =
+      this.state.rID.split && this.state.rID.split('')[0] !== 's' ? this.state.rID : data[0].Author[0].ID;
+    this.setState({rID: rID, publicationStorage: data});
     let storageData = [];
     data.map(function(pub, i) {
       pub.Author.map(function(aut, j) {
@@ -403,12 +404,12 @@ class Visualization extends Component {
           if (!flag) {
             let newAuthor = {};
             newAuthor.id = aut.ID;
-            newAuthor.name = aut.FirstName + ' ' + aut.MiddleName + ' ' + aut.LastName;
+            newAuthor.name = aut.FirstName + ' ' + (aut.MiddleName ? aut.MiddleName : '') + ' ' + aut.LastName;
             newAuthor.time = 1;
             storageData.push(newAuthor);
           }
         } else {
-          this.setState({rName: aut.FirstName + ' ' + aut.MiddleName + ' ' + aut.LastName});
+          this.setState({rName: aut.FirstName + ' ' + (aut.MiddleName ? aut.MiddleName : '') + ' ' + aut.LastName});
         }
       }.bind(this));
     }.bind(this));

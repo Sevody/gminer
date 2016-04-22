@@ -2,7 +2,7 @@ import React from 'react';
 import Router from 'react-routing/src/Router';
 import fetch from './core/fetch';
 import App from './components/App';
-import ContactPage from './components/ContactPage';
+import FileUploadPage from './components/FileUploadPage';
 import AboutPage from './components/AboutPage';
 import Feedback from './components/Feedback';
 import NotFoundPage from './components/NotFoundPage';
@@ -22,7 +22,7 @@ const router = new Router(on => {
 
   on('/about', async () => <AboutPage />);
 
-  on('/contact', async () => <ContactPage />);
+  on('/upload', async () => <FileUploadPage />);
 
   on('/feedback', async () => <Feedback />);
 

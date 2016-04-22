@@ -1,0 +1,6 @@
+{
+  "name": "FileUploadPage",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FileUploadPage.js"
+}

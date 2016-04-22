@@ -7,9 +7,12 @@ import Router from './routes';
 import Html from './components/Html';
 import assets from './assets';
 import { port } from './config';
+import multer from 'multer';
+import bodyParser from 'body-parser';
+import MulterImpl from './api/multerImpl';
 
 const server = global.server = express();
-
+var createdId = {id:'0'};
 //
 // Register Node.js middleware
 // -----------------------------------------------------------------------------
@@ -20,10 +23,26 @@ server.use(express.static(path.join(__dirname, 'public')));
 // -----------------------------------------------------------------------------
 server.use('/api/data', require('./api/data'));
 
-
+server.use(new MulterImpl(createdId).init());
 
 
 // server.use('/api/content', require('./api/content'));
+
+
+//
+// Register upload handler
+// -----------------------------------------------------------------------------
+server.post('/upload', function (req, res) {
+    // This block is only relevant to users
+    // interested in custom parameters - you
+    // can delete/ignore it as you wish
+    if (req.body) {
+        console.dir(req.body);
+    }
+
+   res.status(200).send(createdId.id);
+
+});
 
 //
 // Register server-side rendering middleware
